@@ -1,4 +1,4 @@
-#Medical Appointments Data - Exploratory Data Analysis (EDA)
+Medical Appointments Data - Exploratory Data Analysis (EDA)
 
 Overview
 
@@ -38,9 +38,9 @@ Performed bivariate analysis to assess relationships between features.
 
 3. Visualizations & Insights
 
-Distribution plots and histograms were generated to explore patterns.
+Generated distribution plots and histograms to explore patterns.
 
-Correlation matrices were used to identify relationships between variables.
+Used correlation matrices to identify relationships between variables.
 
 Analyzed factors affecting appointment attendance trends.
 
@@ -81,5 +81,4 @@ Conduct deeper feature engineering for better insights.
 Optimize visualization techniques for clearer trends.
 
 Author
-
 Dev Desai
